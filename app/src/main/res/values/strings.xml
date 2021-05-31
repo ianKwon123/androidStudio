@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check your BMI</string>
+    <string name="Height">Height (cm)</string>
+    <string name="Weight">Weight (kg)</string>
+</resources>
